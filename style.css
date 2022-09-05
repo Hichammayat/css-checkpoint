@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    background-color: black;
+}
+.navbar{
+    background-color: black;
+    font-family:  'Roboto', sans-serif;
+    text-align: center;
+    font-size: x-large;
+    
+}
+.section{
+    text-align: center;
+    color: white;
+    font-size: larger;
+}
+.footer{
+    text-align: center;
+    font-size: x-large;
+    
+}
+img{
+    text-align: center;
+}
